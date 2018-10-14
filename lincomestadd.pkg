@@ -1,0 +1,13 @@
+v 3
+
+d lincomestadd: Use lincom but save results to e()
+d
+d Author: Ben Zipperer
+d Support: https://github.com/benzipperer/lincomestadd
+d
+d Use lincom, but add estimates to current e() results using estadd.
+d
+d Distribution-Date: 20181014
+d
+
+f lincomestadd.ado
