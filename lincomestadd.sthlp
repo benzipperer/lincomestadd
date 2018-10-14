@@ -39,7 +39,7 @@ It saves into e() the formatted strings
 {p2col:e({it:prefix}t)}associated t-statistic{p_end}
 
 {pstd}
-where the strings are formatted according to {format(%fmt)}}, with default %04.3f. It also includes significance stars on e({it:prefix}b) unless the option {opt nostars} is specified.
+where the strings are formatted according to {format(%fmt)}}, with default %04.3f. It also includes significance stars on e({it:prefix}b) unless the option {opt nostars} is specified. Parentheses are placed around the standard error.
 
 {pstd}
 It also saves all of the non-formatted results as numeric values in e({it:prefix}stat_num).
