@@ -4,7 +4,7 @@ syntax anything, statname(name) [format(string) omitstars]
 
 capture which estadd
 if _rc {
-	"You need to install estadd/estout first: ssc install estout."
+	di "You need to install estadd/estout first: ssc install estout."
 	exit 199
 }
 
