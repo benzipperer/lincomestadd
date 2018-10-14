@@ -1,0 +1,3 @@
+v 3
+d Ben Zipperer (benzipperer@gmail.com)
+p lincomestadd lincomestadd - Use lincom but save results to e()
