@@ -42,7 +42,7 @@ It saves into e() the formatted strings
 where the strings are formatted according to {format(%fmt)}}, with default %04.3f. It also includes significance stars on e({it:prefix}b) unless the option {opt nostars} is specified. Parentheses are placed around the standard error.
 
 {pstd}
-It also saves all of the non-formatted results as numeric values in e({it:prefix}stat_num).
+It also saves all of the non-formatted results as numeric values in e({it:prefix}stat_num). In addition, it also saves the {it:p}-value as numeric value in e({it:prefix}pvalue_num).
 
 {pstd}
 The formatted strings are particularly useful when making tables with e()-results.

@@ -41,5 +41,6 @@ estadd local `statname't "`tstring'"
 estadd scalar `statname'b_num = `bnum'
 estadd scalar `statname'se_num = `senum'
 estadd scalar `statname't_num = `tnum'
+estadd scalar `statname'pvalue_num = `pvalue'
 
 end
